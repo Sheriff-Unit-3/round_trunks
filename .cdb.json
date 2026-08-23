@@ -1,0 +1,12 @@
+{
+  "$schema": "https://content.luanti.org/api/cdb_schema/",
+  "title": "Round Trunks",
+  "tags": ["building", "building_mechanics", "decorative"],
+  "type": "MOD",
+  "dev_state": "MAINTENANCE_ONLY",
+  "ai_disclosure": "NONE",
+  "license": "LGPL-3.0-only",
+  "media_license": "CC-BY-SA-4.0",
+  "repo": "https://github.com/mt-mods/round_trunks",
+  "issue_tracker": "https://github.com/mt-mods/round_trunks/issues/new/choose/"
+}
