@@ -1,0 +1,2 @@
+# Set to true if you have black tree trunks
+round_trunks.fix (Fix black tree trunk nodes) bool false
